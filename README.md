@@ -11,10 +11,10 @@ For install, clone this repository, and install this WM with command: sudo make 
 2 ways for update FastWM
 
 1 way: update repository with command: git submodule update --init --recursive
-Download new patch from: https://github.com/MLevankov/FastWM/patches/updates, and apply patch with Git
+Download new patch from: https://github.com/MLevankov/FastWM/tree/master/patches/updates, and apply patch with Git
 Example: git apply patches/updates/1.0.patch
 
 2 way: update repository with command: git submodule update --init --recursive, and install FastWM
 
 # Patches
-All my (and everyone users) patches: https://github.com/MLevankov/FastWM/patches
+All my (and everyone users) patches: https://github.com/MLevankov/FastWM/tree/master/patches
